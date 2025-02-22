@@ -8,9 +8,10 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="[https://linkedin.com/in/prakashk](https://www.linkedin.com/in/prakash-k-a313ab290/)" target="blank">
+<a href="https://www.linkedin.com/in/prakash-k" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakashk" height="30" width="40" />
 </a>
+
 <a href="[https://www.leetcode.com/cse_22065](https://leetcode.com/u/cse_220065/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cse_22065" height="30" width="40" />
 </a>
