@@ -1,23 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakash K</h1>
 
-<h3 align="center">
-  <span class="text1">Aspiring SDE</span> | 
-  <span class="text2">MERN Stack Developer</span> | 
-  <span class="text3">Cloud Computing Enthusiast</span>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7E6&center=true&width=500&lines=Aspiring+SDE;MERN+Stack+Developer;Cloud+Computing+Enthusiast" alt="Typing SVG">
+</p>
 
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(-10px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-  
-  .text1 { animation: fadeIn 1s ease-in-out 0s forwards; opacity: 0; }
-  .text2 { animation: fadeIn 1s ease-in-out 1s forwards; opacity: 0; }
-  .text3 { animation: fadeIn 1s ease-in-out 2s forwards; opacity: 0; }
-</style>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🌐 Connect with me:
@@ -71,14 +57,7 @@
 
 ---
 
-
-
----
-
 ## 🏆 LeetCode Stats:
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/cse_220065?ext=heatmap&animation=true" alt="LeetCode Stats">
 </p>
-
----
-
