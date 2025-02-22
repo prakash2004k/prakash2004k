@@ -54,25 +54,14 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakash2004k&show_icons=true&theme=radical" alt="github stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash2004k&theme=radical" alt="streak stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash2004k&layout=compact&theme=radical" alt="top languages" />
-</p>
+
 
 ---
 
 ## 🏆 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/cse_22065?ext=heatmap&animation=true" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/cse_220065?ext=heatmap&animation=true" alt="LeetCode Stats">
 </p>
 
 ---
 
-## 🔥 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakash2004k&theme=react-dark" alt="activity graph" />
-</p>
