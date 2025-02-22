@@ -8,14 +8,14 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/prakash-k" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakashk" height="30" width="40" />
-</a>
-
-<a href="[https://www.leetcode.com/cse_22065](https://leetcode.com/u/cse_220065/)" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cse_22065" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/prakash-k" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/cse_22065" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
